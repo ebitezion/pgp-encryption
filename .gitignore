@@ -1,0 +1,11 @@
+# Ignore compiled files
+
+
+# Ignore temporary files
+
+
+# Ignore sensitive information
+
+
+# Ignore files in a specific directory
+KEYS/*
